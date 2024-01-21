@@ -1,3 +1,6 @@
+//Author: Jyotiraditya Singh
+//Github: jyotir07
+
 #include <stdio.h>
 
 // Function to perform binary search
