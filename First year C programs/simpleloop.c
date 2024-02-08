@@ -1,5 +1,4 @@
-/*code by Jyotiraditya Singh.*/
-/*Linkedin: https://www.linkedin.com/in/jyotir-aditya-028925249*/
+// Author: jyotir07 @github
 #include<stdio.h>
 int main()
 {
