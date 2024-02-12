@@ -1,4 +1,4 @@
-/*Code by: Jyotiraditya Singh*/
+// Author: jyotir07
 #include<stdio.h>
 int div(int a, int b)
 {
